@@ -10,6 +10,11 @@ This project analyzes the Cave Nova sales dataset to evaluate business performan
 5.  Icon Polish
 6.  the project transforms raw data into actionable insights to support data-driven decision-making.
 
+<h2>FILE</h2>
+
+<a href="" download>
+  📥 Download Full Dataset / Excel File
+</a>
 <h2>How to Use</h2> 
 <p>1. Open the Excel File</p> 
 <p>2. Go to the dashboard and ensure a good scale view</p> 
